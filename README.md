@@ -21,6 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-uzan&show_icons=true&locale=en&layout=compact" alt="michael-uzan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-uzan&show_icons=true&locale=en" alt="michael-uzan" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-uzan&label=Profile%20views&color=0e75b6&style=flat" alt="michael-uzan" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-uzan&" alt="michael-uzan" /></p>
 
