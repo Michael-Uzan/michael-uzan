@@ -3,7 +3,7 @@
  <h3 align="left"> You can view my capabilities here on-trackit.herokuapp.com- a Trello Clone Progressive Web App and code here github.com/onTrackit(React.js, Node.js, MongoDB). 
 <h3 align="left">Formerly a Game Designer and a QA Engineer at Gaming Startup Storyball, and a Mechanical Project Engineer at Intel. <br/> Holds a B.Sc. in Mechanical Engineering (Ben-Gurion University) Finished with excellence.</h3>
 
-- 🔭 My Latest Project - a Trello Clone Progressive Web App Link: <a href="https://on-trackit.herokuapp.com">Trackit</a> , <a href="https://github.com/Michael-Uzan/finalProj">Code</a> 
+- 🔭 My Latest Project - a Trello Clone Progressive Web App Link: <a href="https://on-trackit.herokuapp.com/boards/616190b15d29044e6f2c599d">Trackit</a> , <a href="https://github.com/Michael-Uzan/finalProj">Code</a> 
 
 - 🌱 Technologies I learned React, Vue, Angular, TypeScript, Node.js, Redux, WebSoxkets, MongoDB, Responsive Scss... 
 
