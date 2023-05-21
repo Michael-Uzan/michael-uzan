@@ -1,13 +1,27 @@
 <h1 align="center">Hi 🍭 , I'm Michael Uzan</h1>
-<h3 align="left">I am a Frontend / Full-Stack Web Developer with experience in writing SPA, that completed Coding Academy Bootcamp, looking for Junior position. </h3>
- <h3 align="left"> You can view my capabilities here on-trackit.herokuapp.com- a Trello Clone Progressive Web App and code here github.com/onTrackit(React.js, Node.js, MongoDB). 
+<h3 align="left"></h3>
+ <h3 align="left"> 
 <h3 align="left">Formerly a Game Designer and a QA Engineer at Gaming Startup Storyball, and a Mechanical Project Engineer at Intel. <br/> Holds a B.Sc. in Mechanical Engineering (Ben-Gurion University) Finished with excellence.</h3>
+ <h3 align="left">Holds a B.Sc. in Mechanical Engineering (Ben-Gurion University) Finished with excellence.</h3>
 
-- 🔭 My Latest Project - a Trello Clone Progressive Web App Link: <a href="https://on-trackit.herokuapp.com/boards/616190b15d29044e6f2c599d">Trackit</a> , <a href="https://github.com/Michael-Uzan/finalProj">Code</a> 
+ 👯 I’m looking for **Frontend / Full-Stack Postions**
+ 
+ 🌱 Technologies I learned:
+ 
+ - MVC Frameworks: Single Page Applications using **React.js**.
+ - State Management: **Mobx**, and **Redux**.
+ - Testing: **Jest** (Snapshot, Functionality tests, Mocking).
+ - Backend: Server-side programming, APIs and REST with **Node.js**, **Phyton**.
+ - Languages: **JavaScript(ES6)**, HTML5, **CSS3**, **SASS**.
+ - Database: **MongoDB**.
+ - Other: Android Studio, Xcode, Rainforest, Sentry, Figma.
+ - More: **TypeScript, WebSoxkets, Responsive Scss**, ... 
+ 
+🔭 My Latest Project - a Trello Clone Progressive Web App Link: <a href="https://github.com/Michael-Uzan/finalProj">Code</a> 
 
-- 🌱 Technologies I learned React, Vue, Angular, TypeScript, Node.js, Redux, WebSoxkets, MongoDB, Responsive Scss... 
 
-- 👯 I’m looking for **Junior - Frontend / Full-Stack Postions**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
