@@ -1,8 +1,11 @@
 <h1 align="center">Hi 🍭 , I'm Michael Uzan</h1>
-<h3 align="left"></h3>
- <h3 align="left"> 
-<h3 align="left">Formerly a Game Designer and a QA Engineer at Gaming Startup Storyball, and a Mechanical Project Engineer at Intel. <br/> Holds a B.Sc. in Mechanical Engineering (Ben-Gurion University) Finished with excellence.</h3>
- <h3 align="left">Holds a B.Sc. in Mechanical Engineering (Ben-Gurion University) Finished with excellence.</h3>
+<h3 align="left">Highly motivated Frontend / Full-Stack Web Developer with experience in writing SPA, and over 1 year of experience in
+a mobile gaming company. <br/>
+Skilled in React.js, Jest for testing, and implementing pixel-perfect designs from Figma files.
+<br/>
+Completed a rigorous Coding Academy Bootcamp, showcasing proficiency in MVC frameworks, server-side 
+programming, and modern JavaScript.<br/>
+Formerly a Game Designer and a QA Engineer at Gaming Startup Storyball, and a Mechanical Project Engineer at Intel. <br/> Holds a B.Sc. in Mechanical Engineering (Ben-Gurion University) Finished with excellence.</h3>
 
  👯 I’m looking for **Frontend / Full-Stack Postions**
  
