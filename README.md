@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🍭 , I'm Michael Uzan</h1>
-<h3 align="left">Highly motivated Frontend / Full-Stack Web Developer with experience in writing SPA, and over 1 year of experience in
-a mobile gaming company. <br/>
+<h3 align="left">Highly motivated Frontend / Full-Stack Web Developer with experience writing SPA, and developer roles in mobile 
+gaming companies. <br/>
 Skilled in React.js, Jest for testing, and implementing pixel-perfect designs from Figma files.
 <br/>
 Completed a rigorous Coding Academy Bootcamp, showcasing proficiency in MVC frameworks, server-side 
