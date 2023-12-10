@@ -1,4 +1,6 @@
 <h1 align="center">Hi 🍭 , I'm Michael Uzan</h1>
+🔭 My Latest Project - a Trello Clone Progressive Web App Link: <a href="https://trello-clone-app-82008b27876f.herokuapp.com/boards/6575c458d78b30e72ae983a3">App (deployed on Heroku)</a> | <a href="https://github.com/Michael-Uzan/finalProj">Code</a> 
+
 <h3 align="left">Highly motivated Frontend / Full-Stack Web Developer with experience writing SPA, and developer roles in mobile 
 gaming companies. <br/>
 Skilled in React.js, Jest for testing, and implementing pixel-perfect designs from Figma files.
@@ -20,7 +22,7 @@ Formerly a Game Designer and a QA Engineer at Gaming Startup Storyball, and a Me
  - Other: Android Studio, Xcode, Rainforest, Sentry, Figma.
  - More: **TypeScript, WebSoxkets, Responsive Scss**, ... 
  
-🔭 My Latest Project - a Trello Clone Progressive Web App Link: <a href="https://github.com/Michael-Uzan/finalProj">Code</a> 
+
 
 
 
