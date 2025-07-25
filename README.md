@@ -1,26 +1,18 @@
 <h1 align="center">Hi 🍭 , I'm Michael Uzan</h1>
-🔭 My Latest Project - a Trello Clone Progressive Web App Link: <a href="https://trello-clone-app-82008b27876f.herokuapp.com/boards/6575c458d78b30e72ae983a3">App (deployed on Heroku)</a> | <a href="https://github.com/Michael-Uzan/finalProj">Code</a> 
 
-<h3 align="left">Highly motivated Frontend / Full-Stack Web Developer with experience writing SPA, and developer roles in mobile 
-gaming companies. <br/>
-Skilled in React.js, Jest for testing, and implementing pixel-perfect designs from Figma files.
-<br/>
-Completed a rigorous Coding Academy Bootcamp, showcasing proficiency in MVC frameworks, server-side 
-programming, and modern JavaScript.<br/>
-Formerly a Game Designer and a QA Engineer at Gaming Startup Storyball, and a Mechanical Project Engineer at Intel. <br/> Holds a B.Sc. in Mechanical Engineering (Ben-Gurion University) Finished with excellence.</h3>
+<h3 align="left">Full Stack Developer in React and Node.js, skilled in TypeScript, GraphQL, Apollo, and MongoDB. Experienced in AI-powered platforms, B2B/B2C apps, app architecture, and Nx monorepos. Strong at building pixel-perfect UIs, solving problems, and collaborating with Agile teams to deliver high-quality apps.
+Thanks for stopping by at my profile.</h3>
 
  👯 I’m looking for **Frontend / Full-Stack Postions**
  
  🌱 Technologies I learned:
  
- - MVC Frameworks: Single Page Applications using **React.js**.
- - State Management: **Mobx**, and **Redux**.
- - Testing: **Jest** (Snapshot, Functionality tests, Mocking).
- - Backend: Server-side programming, APIs and REST with **Node.js**, **Phyton**.
- - Languages: **JavaScript(ES6)**, HTML5, **CSS3**, **SASS**.
+ - Frontend Frameworks: **React.js** + **TypeScript**
+ - State Management: **Mobx**, **Legened State App** and **Redux**.
+ - Testing: **Jest**
+ - Backend Server-side: **Node.js**, **Express**, **Phyton**.
  - Database: **MongoDB**.
- - Other: Android Studio, Xcode, Rainforest, Sentry, Figma.
- - More: **TypeScript, WebSoxkets, Responsive Scss**, ... 
+ - Other: **Apollo**, **Axios**, **GraphQL**, **Nx monorepos**
  
 
 
@@ -30,7 +22,7 @@ Formerly a Game Designer and a QA Engineer at Gaming Startup Storyball, and a Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/michael-uzan-ab637071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-uzan-ab637071" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-uzan-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-uzan-ab637071" height="30" width="40" /></a>
 </p>
 
 
